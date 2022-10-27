@@ -119,8 +119,6 @@ C0017547,Gigantism
 C0043251,Wounds and Injuries
 C0221347,Acrocyanosis
 C0242343,Panhypopituitarism
-C0149931,Migraine Disorders
-C0236018,Aura
 C0030757,Pediculus capitis infestation
 C0019880,Homocystinuria
 C0268621,Hepatic methionine adenosyltransferase deficiency
@@ -248,6 +246,7 @@ C0042373,Vascular Diseases
 C0085606,Urgency of micturition
 C0085762,Alcohol abuse
 C0149871,Deep Vein Thrombosis
+C0149931,Migraine Disorders
 C0152030,Skin irritation
 C0206159,Postmenopause
 C0221392,Atrophic Vaginitis
@@ -1538,6 +1537,7 @@ C0037320,Night Terrors
 C0037672,Somnambulism
 C0085292,Stiff-Person Syndrome
 C0234972,Convulsive disorder
+C0236018,Aura
 C0858854,Unrest
 C0948391,Convulsion in childhood
 C0020507,Hyperplasia
