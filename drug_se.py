@@ -7,7 +7,7 @@ conn = psycopg2.connect("host=localhost dbname=postgres user=newuser password=pa
 cur = conn.cursor()
 
 df = pd.read_csv('NewDatasets/drug_se.csv', header=None)
-cur.execute("CREATE TABLE DrugSe (drugId text, seId text, PRIMARY KEY (drugId, seId), FOREIGN KEY (drugId) REFERENCES Drugs, FOREIGN KEY (seId) REFERENCES SideEffects);")
+cur.execute("CREATE TABLE DrugSe (drugId text NOT NULL, seId text, PRIMARY KEY (drugId, seId), FOREIGN KEY (drugId) REFERENCES Drugs, FOREIGN KEY (seId) REFERENCES SideEffects);")
 for i in range(0, len(df)):
     drugId = df.iloc[i,0]
     seId = df.iloc[i,1]

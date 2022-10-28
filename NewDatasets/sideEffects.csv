@@ -416,7 +416,7 @@ C0026961,Mydriasis
 C0028259,Nodule
 C0030794,Pelvic pain
 C0030846,Penis disorder
-C0030848,Peyronies disease
+C0030848,Peyronie's disease
 C0031154,Peritonitis
 C0031538,Tight foreskin
 C0345326,Phimosis
@@ -1218,7 +1218,7 @@ C0341212,Gastrointestinal fistula
 C0348801,"Pneumonia due to Streptococcus, group b"
 C0155862,Pneumonia streptococcal
 C0852922,Crohns disease aggravated
-C0010346,Crohns disease
+C0010346,Crohn's disease
 C0012254,Digitalis toxicity
 C0085584,Encephalopathy
 C0155003,Blindness transient
@@ -1254,7 +1254,7 @@ C0234146,Areflexia
 C0239385,Paresthesia of limbs
 C0001925,Albuminuria
 C0024523,Malabsorption
-C0025281,Menieres disease
+C0025281,Meniere's disease
 C0028738,Nystagmus
 C0028961,Oliguria
 C0235280,Ototoxicity
@@ -1280,7 +1280,7 @@ C1737214,Injection site injury
 C3267019,Central nervous system haemorrhage
 C0007780,Cerebral artery embolism
 C0010278,Craniosynostosis
-C0018213,Basedows disease
+C0018213,Basedow's disease
 C0021359,Infertility
 C0033845,Benign intracranial hypertension
 C0149887,Slipped femoral capital epiphysis
@@ -1406,7 +1406,7 @@ C0024141,Systemic lupus erythematosus
 C0028077,Night blindness
 C0042164,Uveitis
 C0086981,Syndrome sicca
-C1527336,Sjogrens syndrome
+C1527336,Sjogren's syndrome
 C0151555,Cinchonism
 C0235369,Hepatitis granulomatous
 C0860210,Granulomatous liver disease
@@ -1461,7 +1461,7 @@ C0027073,Myofascial pain syndrome
 C0235299,Right upper quadrant pain
 C0476281,Non-cardiac chest pain
 C0522067,Hepatic pain
-C0040517,Tourettes disorder
+C0040517,Tourette's disorder
 C0338614,Psychotic episode
 C0003507,Aortic valve stenosis
 C0006147,Breast feeding
@@ -1639,17 +1639,17 @@ C0004144,Atelectasis
 C0004239,Atrial flutter
 C0007785,Cerebral infarction
 C0011848,Diabetes insipidus
-C0013312,Dupuytrens contracture
+C0013312,Dupuytren's contracture
 C0014038,Encephalitis
 C0017566,Gingival hyperplasia
 C0019193,Hepatitis toxic
-C0019829,Hodgkins disease
-C1266194,Hodgkins disease lymphocyte predominance type stage unspecified
-C0152267,Hodgkins disease lymphocyte depletion type stage unspecified
+C0019829,Hodgkin's disease
+C1266194,Hodgkin's disease lymphocyte predominance type stage unspecified
+C0152267,Hodgkin's disease lymphocyte depletion type stage unspecified
 C0020507,Hyperplasia
 C0020555,Hypertrichosis
 C0024299,Lymphoma
-C0024305,Non-Hodgkins lymphoma
+C0024305,Non-Hodgkin's lymphoma
 C0025007,Measles
 C0027932,Neurosis
 C0031036,Polyarteritis nodosa
@@ -2124,8 +2124,8 @@ C0857496,Thromboembolic event
 C0877035,Oestrogenic effect
 C1522133,High cholesterol
 C1527411,Retinal vein thrombosis
-C0853008,Parkinsons disease aggravated
-C0030567,Parkinsons disease
+C0853008,Parkinson's disease aggravated
+C0030567,Parkinson's disease
 C0005743,Blepharoconjunctivitis
 C0005745,Eyelid ptosis
 C0005747,Blepharospasm
@@ -2149,7 +2149,7 @@ C0151814,Coronary artery occlusion
 C3160770,Minor bleed
 C0008049,Varicella
 C0019087,Haemorrhagic disorder
-C0035400,Reyes syndrome
+C0035400,Reye's syndrome
 C0235283,Ear buzzing
 C0268030,Acidemia
 C0857177,Arthritic pains
@@ -2246,7 +2246,7 @@ C0392674,Exhaustion
 C0426390,Bladder spasm
 C1321898,Blood in stool
 C0001622,Hyperadrenocorticism
-C0010481,Cushings syndrome
+C0010481,Cushing's syndrome
 C0919659,Oropharyngeal candidiasis
 C0035457,Perennial allergic rhinitis
 C0848309,Rhinitis perennial
@@ -2276,7 +2276,7 @@ C0541766,Aggravation of existing disorder
 C0595879,Sodium high
 C0595878,Blood sodium increased
 C0679429,Platelet dysfunction
-C1167750,Hoignes syndrome
+C1167750,Hoigne's syndrome
 C0240211,Lip swelling
 C0155626,Acute myocardial infarction
 C0007194,Hypertrophic cardiomyopathy
@@ -2319,7 +2319,7 @@ C0011644,Scleroderma
 C0152169,Renal colic
 C0235296,Epigastric pain not food-related
 C0235492,Raynaud-like disorder
-C0034735,Raynauds phenomenon
+C0034735,Raynaud's phenomenon
 C0235522,Vein disorder
 C0235560,Respiratory tract haemorrhage
 C0235822,Overdose effect
@@ -2407,7 +2407,7 @@ C1737224,Post procedural swelling
 C1868752,Procedural nausea
 C2939427,Hypoesthesia tongue
 C0013221,Drug toxicity
-C0019937,Horners syndrome
+C0019937,Horner's syndrome
 C0030201,Postoperative pain
 C0235863,Delayed delivery
 C0269596,Haemorrhage in pregnancy
@@ -2433,7 +2433,7 @@ C0423823,Nail thinning
 C0424091,Decreased interest
 C0541882,Difficulty thinking
 C2937228,Tunnel vision
-C0001403,Addisons disease
+C0001403,Addison's disease
 C0003028,Anhidrosis
 C0010828,Cytopenia
 C0014867,Varices oesophageal
@@ -2661,7 +2661,7 @@ C0853117,Blood testosterone decreased
 C0856880,Urea increased
 C0949059,Large intestine polyp
 C3489393,Hiatus hernia
-C0034734,Raynauds disease
+C0034734,Raynaud's disease
 C0011633,Dermatomyositis
 C0029089,Ophthalmoplegia
 C0028866,IIIrd nerve paralysis
@@ -2816,7 +2816,7 @@ C0151892,Retinal pigmentation
 C0155320,Blindness cortical
 C0231785,Carpo-pedal spasm
 C0340952,Secondary anemia
-C0576702,Lhermittes sign
+C0576702,Lhermitte's sign
 C0877104,Retinal toxicity
 C0948168,Bone marrow toxicity
 C1112616,Loss of proprioception
@@ -2853,7 +2853,7 @@ C0009376,Colonic polyp
 C0015408,Eye injury
 C0015806,Femoral neck fracture
 C0016167,Anal fissure
-C0017551,Gilberts syndrome
+C0017551,Gilbert's syndrome
 C0020505,Hyperphagia
 C0020546,Hypertensive crisis
 C0020877,Ileitis
@@ -2989,7 +2989,7 @@ C0032019,Pituitary tumour
 C0032994,Tubal pregnancy
 C0032987,Ectopic pregnancy
 C0033375,Prolactinoma
-C0039685,Fallots tetralogy
+C0039685,Fallot's tetralogy
 C0040588,Tracheo-oesophageal fistula
 C0162678,Neurofibromatosis
 C0206093,Neuroectodermal neoplasm
@@ -3146,7 +3146,7 @@ C0027125,Myotonia
 C0270921,Axonal neuropathy
 C0014863,Oesophageal spasm
 C0850060,Nasal itching
-C0376175,Bells palsy
+C0376175,Bell's palsy
 C0042167,Posterior uveitis
 C0008526,Choroiditis
 C0152253,Posterior synechiae of iris
@@ -3159,7 +3159,7 @@ C0027145,Myxoedema
 C0034091,Pulmonary veno-occlusive disease
 C0036529,Cardiomyopathy secondary NOS
 C0041959,Ureteritis
-C0043092,Wegeners granulomatosis
+C0043092,Wegener's granulomatosis
 C3495801,Granulomatosis with polyangiitis
 C0153618,Malignant neoplasm of renal pelvis
 C0153619,Ureteric cancer
@@ -3210,7 +3210,7 @@ C1535919,Foetal chromosome abnormality
 C1704212,Embolus
 C3536683,Ovulation inhibited
 C0429468,Anovulatory cycle
-C0004767,Bartholins cyst
+C0004767,Bartholin's cyst
 C0547000,Joint lock
 C1527405,Erythrocytosis
 C2609073,Splenic peliosis
@@ -3590,7 +3590,7 @@ C0858970,Carcinogenicity
 C0919591,Urogenital haemorrhage
 C0948011,Cervix haemorrhage uterine
 C1455705,Histiocytosis X of lung
-C0019621,Langerhans cell histiocytosis
+C0019621,Langerhans' cell histiocytosis
 C2732728,Body height decreased
 C0151310,Paresthesia generalized
 C0009398,Defective colour vision
@@ -3761,7 +3761,7 @@ C1167675,Application site folliculitis
 C1735864,Administration site infection
 C2586050,Oesophagitis ulcerative
 C0549262,Rebound effect
-C0004763,Barretts oesophagus
+C0004763,Barrett's oesophagus
 C0008039,Cheyne-Stokes respiration
 C0026825,Muscle tone flaccid
 C0032768,Post herpetic neuralgia
@@ -4050,7 +4050,7 @@ C0019569,Congenital megacolon
 C0020224,Polyhydramnios
 C0020305,Hydrops foetalis
 C0027830,Neurofibroma
-C0041408,Turners syndrome
+C0041408,Turner's syndrome
 C0042131,Uterine disorder
 C0080178,Spina bifida
 C0151512,Injection site atrophy
@@ -4127,7 +4127,7 @@ C0426649,Bowel spasm
 C0857983,Serum testosterone decreased
 C1167785,Haemorrhagic urticaria
 C0231527,Muscular incoordination
-C0006413,Burkitts lymphoma
+C0006413,Burkitt's lymphoma
 C0010823,Cytomegalovirus infection
 C0016664,Stress fracture
 C0019655,Histoplasmosis
@@ -4156,7 +4156,7 @@ C0580531,White blood cell count abnormal
 C0751901,Vocal tic
 C0877014,Sympathomimetic effect
 C3536794,Feeling sad
-C0221406,Pituitary-dependent Cushings syndrome
+C0221406,Pituitary-dependent Cushing's syndrome
 C0423757,Skin thinness
 C0542215,Slough injection site
 C2363949,Injection site exfoliation
@@ -4254,7 +4254,7 @@ C0242354,Disorder birth
 C0341335,Cytomegalovirus colitis
 C0000772,Multiple congenital abnormalities
 C0024248,Lymphocele
-C0036220,Kaposis sarcoma
+C0036220,Kaposi's sarcoma
 C0549334,Parotid duct obstruction
 C0588128,Implant infection
 C0687675,Pregnancy loss
@@ -4268,7 +4268,7 @@ C0033936,Alcoholic psychosis
 C0233774,Somatic hallucination
 C0236663,Alcohol withdrawal syndrome
 C0524662,Dependence on opiates
-C0002395,Dementia Alzheimers type
+C0002395,Dementia Alzheimer's type
 C0018839,Heat exhaustion
 C0035302,Retinal artery occlusion
 C0149642,Cervical adenitis
@@ -4463,7 +4463,7 @@ C0151981,Peptic ulcer reactivated
 C0221271,Elastosis perforans
 C0221348,Yellow nail syndrome
 C0240066,Iron deficiency
-C0403529,Goodpastures syndrome
+C0403529,Goodpasture's syndrome
 C0086066,Coryza
 C0206178,Cytomegalovirus retinitis
 C0877072,Cytomegalovirus chorioretinitis
@@ -4777,13 +4777,13 @@ C1956391,Temporal arteritis
 C2718128,Nasal inflammation
 C2750515,Subcutaneous bleeding
 C0021100,Bullous impetigo
-C0022504,Kaposis varicelliform eruption
+C0022504,Kaposi's varicelliform eruption
 C0030299,Pancreatic pseudocyst
 C0150045,Urge incontinence
 C0232285,Chest pressure sensation of
 C0235433,Fat tissue increased
 C0262417,Pancreatitis acute on chronic
-C0265962,Nethertons syndrome
+C0265962,Netherton's syndrome
 C0267925,Bile duct stenosis
 C0267941,Pancreatitis necrotising
 C0349705,Haemoglobin abnormal
@@ -4830,7 +4830,7 @@ C0033949,Male orgasmic disorder
 C0042341,Varicocele
 C0151685,Growth accelerated
 C0233976,Clitoral engorgement
-C0268671,Korsakoffs psychosis (non-alcoholic)
+C0268671,Korsakoff's psychosis (non-alcoholic)
 C0349464,Wernicke-Korsakoff syndrome
 C0269268,Breast induration
 C0277986,Gingival oedema
@@ -5178,7 +5178,7 @@ C0005826,Blood pressure abnormal
 C0151995,Degeneration of uterine fibroid
 C0153690,Bone cancer metastatic
 C0574785,Lower urinary tract symptoms
-C0242459,Loefflers syndrome
+C0242459,Loeffler's syndrome
 C0854693,Anaesthetic complication neurological
 C0919572,Agitation postoperative
 C1319200,Confusion postoperative
@@ -5274,7 +5274,7 @@ C0036601,Self mutilation
 C0037650,Somatoform disorder
 C0040252,Body tinea
 C0040441,Tooth fracture
-C0085740,Mendelsons syndrome
+C0085740,Mendelson's syndrome
 C0149801,Urosepsis
 C0152447,Urethral discharge
 C0159658,Clavicle fracture
@@ -5453,7 +5453,7 @@ C0476337,Blood gases abnormal
 C0521622,Bilateral hydronephrosis
 C0549284,Fibrillation atrial aggravated
 C0549322,Eyelid infection
-C0580181,Jessners lymphocytic infiltration
+C0580181,Jessner's lymphocytic infiltration
 C0677658,Breast disorder female
 C0751908,Vestibular neuronitis
 C0852970,Dacryoadenitis acquired
@@ -5730,7 +5730,7 @@ C0333912,Hypochromasia
 C0341858,Adenomyosis
 C0436503,Chest X-ray abnormal
 C0560637,Genital injury
-C0740292,5nucleotidase increased
+C0740292,5'nucleotidase increased
 C0740314,Ultrasound breast abnormal
 C0854131,Vaginal wall congestion
 C0877645,Urinary bladder polyp
@@ -5753,7 +5753,7 @@ C0438254,Urine electrolytes abnormal
 C0740832,End stage AIDS
 C0853772,Blood calcium abnormal
 C0235630,Renal failure aggravated
-C0006079,Bowens disease
+C0006079,Bowen's disease
 C0023070,Laryngopharyngitis
 C0025297,Meningitis viral
 C0038987,Sweat gland tumour
@@ -6016,10 +6016,10 @@ C1096252,Cardiac discomfort
 C1504438,Cerebral artery stenosis
 C0424082,Hypnopompic hallucination
 C3160891,Hormone-dependent prostate cancer
-C0022735,Klinefelters syndrome
+C0022735,Klinefelter's syndrome
 C0152436,Imperforate hymen
 C0346306,Pituitary microadenoma
-C0271093,Stargardts disease
+C0271093,Stargardt's disease
 C0521628,Genital itching male
 C0748019,Prostatic acid phosphatase increased
 C0856102,Gynecomastia aggravated
@@ -6057,5 +6057,5 @@ C0155369,Vitreous prolapse
 C0235802,Pupillary reflex impaired
 C0240846,Pupillary deformity
 C0271036,Retinal scar
-C0856117,Menieres disease aggravated
+C0856117,Meniere's disease aggravated
 C0339268,Arcus juvenilis
