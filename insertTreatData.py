@@ -12,7 +12,7 @@ for i in range(0, len(df)):
     drugId = df.iloc[i,0]
     indicationId = df.iloc[i,1]
     print("{0} : {1}".format(drugId, indicationId))
-    if(indicationId != None or dugId != None):
+    if(indicationId != None or drugId != None):
         cur.execute("INSERT INTO Treats (drugId, indicationId) VALUES ('{0}', '{1}');".format(drugId, indicationId))
 
 conn.commit()
