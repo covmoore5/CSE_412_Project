@@ -263,10 +263,6 @@ CID100000232	C0242343	text_mention	Panhypopituitarism	LLT	C0242343	Panhypopituit
 CID100000232	C0242343	text_mention	Panhypopituitarism	PT	C0020635	Hypopituitarism
 CID100000232	C0858734	text_mention	Insulin hypoglycemia	LLT	C0858734	Insulin hypoglycemia
 CID100000232	C0858734	text_mention	Insulin hypoglycemia	PT	C0020615	Hypoglycaemia
-CID100000242	C0149931	NLP_indication	Migraine Disorders	LLT	C0149931	Migraine
-CID100000242	C0149931	NLP_indication	Migraine Disorders	PT	C0149931	Migraine
-CID100000242	C0236018	NLP_indication	Aura	LLT	C0236018	Aura
-CID100000242	C0236018	NLP_indication	Aura	PT	C0236018	Aura
 CID100000244	C0030757	NLP_indication	Pediculus capitis infestation	LLT	C0030757	Pediculosis capitis
 CID100000244	C0030757	NLP_indication	Pediculus capitis infestation	PT	C0030756	Lice infestation
 CID100000247	C0019880	NLP_indication	Homocystinuria	LLT	C0019880	Homocystinuria
