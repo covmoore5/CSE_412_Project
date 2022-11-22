@@ -583,7 +583,7 @@ C0036220,Kaposi Sarcoma
 C0086565,Liver Dysfunction
 C0149925,Small cell carcinoma of lung
 C0235974,Pancreatic carcinoma
-C0276535,AIDS with Kaposi's sarcoma
+C0276535,AIDS with Kaposis sarcoma
 C0278488,Carcinoma breast stage IV
 C0278688,Stage IV Ovarian Carcinoma
 C0278828,Stage IV Bladder Cancer AJCC v6
@@ -878,7 +878,7 @@ C0262655,Recurrent urinary tract infection
 C0456103,Sepsis neonatal
 C0684256,Bacterial sepsis
 C0206667,Adrenal Cortical Adenoma
-C0221406,Pituitary-dependent Cushing's disease
+C0221406,Pituitary-dependent Cushings disease
 C1370740,Adrenal carcinoma
 C1621895,Adrenal hyperplasia
 C0877430,Asthma chronic
@@ -1035,7 +1035,7 @@ C0149922,Lichen Simplex Chronicus
 C0848309,Rhinitis perennial
 C0035067,Renal Artery Stenosis
 C0013456,Earache
-C0155393,Acute swimmer's ear
+C0155393,Acute swimmers ear
 C0015371,Extrapyramidal Disorders
 C0686347,Tardive Dyskinesia
 C0030758,Body louse infestation
@@ -1257,7 +1257,7 @@ C0332575,Redness
 C0423153,Lacrimation
 C0578870,Chronic spontaneous urticaria
 C3257803,Watery eyes
-C1527336,Sjogren's Syndrome
+C1527336,Sjogrens Syndrome
 C0023434,Chronic Lymphocytic Leukemia
 C0023448,Lymphoid leukemia
 C0024301,"Lymphoma, Follicular"
@@ -1332,7 +1332,7 @@ C0345904,Malignant neoplasm of liver
 C0546837,Malignant neoplasm of esophagus
 C0740457,Malignant neoplasm of kidney
 C0919267,ovarian neoplasm
-C0002395,Alzheimer's Disease
+C0002395,Alzheimers Disease
 C0002622,Amnesia
 C0007780,Cerebral Embolism
 C0009241,Cognition Disorders
@@ -1436,7 +1436,7 @@ C0038054,"Sprue, Tropical"
 C0042441,Vegetarian (finding
 C0042847,Vitamin B 12 Deficiency
 C0240066,Iron deficiency
-C0267380,Crohn's disease of the ileum
+C0267380,Crohns disease of the ileum
 C0344351,"Diet, Gluten-Free"
 C0007682,CNS disorder
 C0235238,Cycloplegia
@@ -1474,7 +1474,7 @@ C0020440,Hypercapnia
 C0027849,Neuroleptic Malignant Syndrome
 C0231441,Immobile
 C0342952,Hypermetabolism
-C0002875,Cooley's anemia
+C0002875,Cooleys anemia
 C0282193,Iron Overload
 C0018995,Hemochromatosis
 C0019114,Hemosiderosis
@@ -1655,7 +1655,7 @@ C0009770,Inclusion conjunctivitis
 C0013370,Amebic colitis
 C0014236,Endophthalmitis
 C0023240,Legionellosis
-C0023241,Legionnaires' Disease
+C0023241,Legionnaires Disease
 C0024032,Low Birth Weights
 C0029076,Ophthalmia Neonatorum
 C0043168,Whooping cough due to unspecified organism
@@ -1740,7 +1740,7 @@ C0278791,Chronic lymphocytic leukaemia refractory
 C0392386,Decreased platelet count
 C0302280,Adrenogenital Syndrome
 C0559470,Allergy to peanuts
-C0006079,Bowen's Disease
+C0006079,Bowens Disease
 C0007114,Malignant neoplasm of skin
 C0007117,Basal cell carcinoma
 C0007134,Renal Cell Carcinoma
@@ -1982,7 +1982,7 @@ C0001339,Pancreatitis acute
 C0234447,Narcosis
 C0033252,Proctosigmoiditis
 C0221470,Aphagia
-C1112567,Crohn's ileocolitis
+C1112567,Crohns ileocolitis
 C0242073,Pulmonary congestion
 C0542247,Tremulousness
 C0019337,Heroin Dependence
@@ -2088,7 +2088,7 @@ C0018078,Gonococcal urethritis
 C0034184,Pyelocystitis
 C0085696,Chronic prostatitis
 C0267446,Acute gastroenteritis
-C0277528,Traveller's diarrhea
+C0277528,Travellers diarrhea
 C0558348,Gastroenteritis bacterial
 C0009254,Coitus Interruptus
 C0021899,Intrauterine Device Expulsion
@@ -2315,7 +2315,7 @@ C0279563,Lobular carcinoma in situ of breast
 C1096616,Contralateral breast cancer
 C0037286,Skin Neoplasms
 C0037301,Skin Wrinkling
-C0149722,Hutchinson's Melanotic Freckle
+C0149722,Hutchinsons Melanotic Freckle
 C0162835,Hypopigmentation disorder
 C0263415,Solar elastosis
 C0278883,Metastatic melanoma

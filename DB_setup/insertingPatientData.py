@@ -2,7 +2,7 @@ from cv2 import dnn_DetectionModel
 import pandas as pd
 import psycopg2
 
-conn = psycopg2.connect("host=localhost dbname=postgres user=newuser password=password")
+conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
 
 cur = conn.cursor()
 
