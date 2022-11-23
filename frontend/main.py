@@ -10,26 +10,41 @@ import queryScripts as qs
 
 
 root = Tk()
+root.title("Medicine App!")
 frame = ttk.Frame(root, padding=50)
 frame.grid()
 
-sideEffectsRes = Label(frame, height = 100, width = 52)
-medNameEntry = Entry(frame)
-
 
 def findSE():
+    listbox.delete(0, END)
     rows = qs.find_ind_for_med(medNameEntry.get())
-    temp = ""
     for row in rows:
-        temp += row[0] + "\n"
-    sideEffectsRes.config(text=temp)
+        print(row)
+        listbox.insert(END, row[0])
+        
 
-title = Label(frame, text="Medicine App!").grid(column=1, row=0)
+### CODE FOR SIDE EFFECTS OF MEDICINE
+
+medNameEntry = Entry(frame)
+title = Label(frame, text="Find Side Effects of a Medicine").grid(column=1, row=0)
 medNameLbl = Label(frame, text="Enter a Medicine Name:").grid(column=0, row=1)
 
 medNameEntry.grid(column=1, row=1)
-lookupSEBtn = Button(frame, text="Enter to find Side Effects", command=findSE).grid(column=2, row=1)
-sideEffectsRes.grid(column=0, row=2)
+lookupSEBtn = Button(frame, text="Find Side Effects", command=findSE).grid(column=2, row=1)
+
+scroll = Scrollbar(frame, width=10)
+listbox=Listbox(frame, background="Blue", fg="white",selectbackground="Red", yscrollcommand=scroll, width=50)
+scroll.config( command = listbox.yview)
+
+scroll.grid(column=2, row=2)
+listbox.grid(column=0, row=2, columnspan=3)
+
+
+### CODE FOR INDICATIONS OF MEDICINE
+
+
+
+
 
 root.mainloop()
 
