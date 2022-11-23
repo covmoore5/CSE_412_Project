@@ -19,4 +19,21 @@ def find_ind_for_med(medicine_name):
 
     return rows
 
+def find_se_for_med(medicine_name):
+    conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
+    cur = conn.cursor()
+    cur.execute(" \
+    SELECT SideEffects.seName \
+    FROM SideEffects, DrugSe, Drugs \
+    WHERE SideEffects.seId = DrugSe.seId \
+    AND DrugSe.drugId = Drugs.drugId \
+    AND Drugs.drugName = '{0}';".format(medicine_name))
 
+    rows = cur.fetchall()
+
+
+    # Close communication with the database
+    cur.close()
+    conn.close()
+
+    return rows
