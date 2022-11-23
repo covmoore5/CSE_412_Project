@@ -37,3 +37,39 @@ def find_se_for_med(medicine_name):
     conn.close()
 
     return rows
+
+def find_patient_presc(patient_name):
+    conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
+    cur = conn.cursor()
+    cur.execute(" \
+    SELECT Drugs.drugName \
+    FROM Drugs, Prescribed, Patients \
+    WHERE Drugs.drugId = Prescribed.drugId \
+    AND Prescribed.pId = Patients.pId \
+    AND Patients.pName = '{0}';".format(patient_name))
+
+    rows = cur.fetchall()
+
+
+    # Close communication with the database
+    cur.close()
+    conn.close()
+
+    return rows
+
+def get_all_patients():
+    conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
+    cur = conn.cursor()
+    cur.execute(" \
+    SELECT pName \
+    FROM Patients;")
+
+    rows = cur.fetchall()
+
+
+    # Close communication with the database
+    cur.close()
+    conn.close()
+
+    return rows
+

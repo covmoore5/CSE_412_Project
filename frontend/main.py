@@ -26,6 +26,12 @@ def findIndication():
     rows = qs.find_ind_for_med(medNameEntry2.get())
     for row in rows:
         listbox2.insert(END, row[0])
+
+def findPresc():
+    listbox3.delete(0, END)
+    rows = qs.find_patient_presc(medNameEntry3.get())
+    for row in rows:
+        listbox3.insert(END, row[0])
         
 
 ### CODE FOR SIDE EFFECTS OF MEDICINE
@@ -59,6 +65,22 @@ scroll2.config( command = listbox.yview)
 
 scroll2.grid(column=2, row=6)
 listbox2.grid(column=0, row=6, columnspan=3)
+
+
+### CODE FOR GETTING PATIENT PRESCRIPTIONS
+medNameEntry3 = Entry(frame)
+prescriptionTitle = Label(frame, text="Find a Patient's Prescriptions").grid(column=1, row=7)
+medNameLbl3 = Label(frame, text="Enter a Medicine Name:").grid(column=0, row=8)
+
+medNameEntry3.grid(column=1, row=8)
+lookupPrescBtn = Button(frame, text="Find Side Effects", command=findPresc).grid(column=2, row=8)
+
+scroll3 = Scrollbar(frame, width=10)
+listbox3=Listbox(frame, background="Blue", fg="white",selectbackground="Red", yscrollcommand=scroll3, width=50)
+scroll3.config( command = listbox.yview)
+
+scroll3.grid(column=2, row=9)
+listbox3.grid(column=0, row=9, columnspan=3)
 
 
 
