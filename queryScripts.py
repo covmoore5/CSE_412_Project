@@ -61,7 +61,7 @@ def get_all_patients():
     conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
     cur = conn.cursor()
     cur.execute(" \
-    SELECT pName \
+    SELECT pName,pId \
     FROM Patients;")
 
     rows = cur.fetchall()
@@ -73,3 +73,21 @@ def get_all_patients():
 
     return rows
 
+def get_med_with_ind(indicationName):
+    conn = psycopg2.connect("host=localhost dbname=postgres user=postgres password=password")
+    cur = conn.cursor()
+    cur.execute(" \
+    SELECT Drugs.drugName \
+    FROM Drugs, Treats, Indications \
+    WHERE Drugs.drugId = Treats.drugId \
+    AND Treats.indicationId = Indications.indicationId \
+    AND Indications.indicationName = '{0}';".format(indicationName))
+
+    rows = cur.fetchall()
+
+
+    # Close communication with the database
+    cur.close()
+    conn.close()
+
+    return rows

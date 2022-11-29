@@ -15,7 +15,12 @@ import queryScripts as qs
 # for row in rows:
 #     print(row[0])
 
-rows = qs.find_patient_presc('Martin,Madaline')
+# rows = qs.find_patient_presc('Martin,Madaline')
+
+# for row in rows:
+#     print(row[0])
+
+rows = qs.get_med_with_ind("Heart failure")
 
 for row in rows:
     print(row[0])
